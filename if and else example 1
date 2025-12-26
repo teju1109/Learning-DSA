@@ -1,0 +1,15 @@
+ class Main {
+    public static void main(String[] args) {
+        
+    String Teju = "boy";
+    
+       if(Teju == "boy")
+       {
+           System.out.println("you are always RIGHT");
+       }
+       else
+       {
+           System.out.println("LEFT ki mingu");
+       }
+    }
+}
