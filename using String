@@ -1,0 +1,7 @@
+class Main {
+    public static void main(String[] args) {
+        String thop = "Tejugadu";
+        System.out.println("thop");
+        System.out.println(thop);
+    }
+}
